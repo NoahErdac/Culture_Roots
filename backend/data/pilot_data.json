@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ethiopia",
+    "food_narrative": "Eating Injera from one massive plate is how we show community. You have to eat it with your right hand!",
+    "food_query": "Gursha Ethiopian Restaurant, Grand Rapids, MI",
+    "history_narrative": "Lalibela's rock-hewn churches are a testament to ancient architecture and faith.",
+    "history_query": "Lalibela, Ethiopia",
+    "culture_narrative": "The traditional coffee ceremony (Buna) is a cornerstone of our social life. It is an unwritten rule that you take the time to sit, smell the roasting beans, and connect with guests. It is never rushed.",
+    "culture_query": "Ethiopian Orthodox Tewahedo Church"
+  },
+  {
+    "name": "Kenya",
+    "food_narrative": "Authentic Nyama Choma at a weekend gathering is a whole social event back home.",
+    "food_query": "East African Grocery, Kentwood, MI",
+    "history_narrative": "The Maasai Mara isn't just a reserve; it represents the deep connection between the land and the Maasai people.",
+    "history_query": "Maasai Mara, Kenya",
+    "culture_narrative": "The concept of 'Harambee' (pulling together) defines our community support system. There is also a deep, unspoken respect for elders—you always greet them first and offer them the best seats.",
+    "culture_query": "Kenyan Community Center"
+  }
+]
